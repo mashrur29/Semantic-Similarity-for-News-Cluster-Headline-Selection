@@ -1,0 +1,9 @@
+.venv2
+.venv
+dataset/processed_data.csv
+model_dsc
+semantic_similarity_bert.pt
+semantic_similarity_bert_1.pt
+semantic_similarity_bert_2.pt
+test_dataset.json
+test_dataset.pkl
