@@ -7,3 +7,4 @@ semantic_similarity_bert_1.pt
 semantic_similarity_bert_2.pt
 test_dataset.json
 test_dataset.pkl
+.idea
